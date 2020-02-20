@@ -14,7 +14,7 @@ luego aceptar los terminos de servicio, seleccionar cualquiera de los 2 metodos 
 
 <h1> Back End </h1>
 
-1) Se tiene un desarrollo de Backend con 4 servicios externalizados GET
+<h2> Se tiene un desarrollo de Backend con 4 servicios externalizados GET </h2>
 
 servicio de persona que devuelve un status 200 {"response": {"nombre": "ezequiel","apellido":"hermoso"}}
 https://back-qa.herokuapp.com/persona/ezequiel
@@ -28,7 +28,7 @@ https://back-qa.herokuapp.com/persona/error/404/ezequiel
 servicio de persona que devuelve un status error 401 {"error": "Error acceso no autorizado"}
 https://back-qa.herokuapp.com/persona/error/401/ezequiel
 
-2) 4 servicios externalizados POST
+<h2> 4 servicios externalizados POST </h2>
 
 servicio de persona se le envía un request {"nombre": "ezequiel", "apellido":"hermoso"} que devuelve un status 200
 https://back-qa.herokuapp.com/persona/
@@ -42,7 +42,7 @@ https://back-qa.herokuapp.com/persona/error/404/
 servicio de persona se le envía un request {"nombre": "ezequiel", "apellido":"hermoso"} que devuelve un status error 401
 https://back-qa.herokuapp.com/persona/error/401/
 
-3) <h2> 4 servicios externalizados PUT </h2>
+ <h2> 4 servicios externalizados PUT </h2>
 
 servicio de persona se le envía un request {"apellido":"hermoso2"} que devuelve un status 200
 https://back-qa.herokuapp.com/persona/ezequiel
