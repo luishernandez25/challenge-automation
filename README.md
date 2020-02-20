@@ -2,7 +2,7 @@
 
 <h1> Front End </h1>
 
-Se tiene la siguiente Web siendo un Ecommerce B2C, el cual se requiere automatizar una serie de pruebas de regresion para validar una 
+Se tiene la siguiente Web siendo un Ecommerce B2C, http://automationpractice.com/index.php el cual se requiere automatizar una serie de pruebas de regresion para validar una 
 serie de funcionalidades la casuistica es la siguiente:
 
 1)Validar la funcionalidad de crear cuenta la cual estara vinculada a una cuenta de correo y luego se rellena un formulario, y el alta se realice correctamente
