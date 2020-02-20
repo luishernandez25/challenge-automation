@@ -42,7 +42,7 @@ https://back-qa.herokuapp.com/persona/error/404/
 servicio de persona se le envía un request {"nombre": "ezequiel", "apellido":"hermoso"} que devuelve un status error 401
 https://back-qa.herokuapp.com/persona/error/401/
 
-3) 4 servicios externalizados PUT
+3) <h2> 4 servicios externalizados PUT </h2>
 
 servicio de persona se le envía un request {"apellido":"hermoso2"} que devuelve un status 200
 https://back-qa.herokuapp.com/persona/ezequiel
