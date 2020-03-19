@@ -66,7 +66,7 @@ https://back-qa.herokuapp.com/persona/ezequiel
 
 <h1> Criterios de aceptacion </h1>
 
-Para el desarrollo de la automatizacion del front el postulante es libre de seleccionar cualquier herramienta openSource que desee, lo minimo que se solicita es que siga el patron de Page Object
-Para las apis se requiere el desarrollo con RestAssured o Karate siendo la primera la mas deseable, en caso que todo el desarrollo(Front + Back) sea hecho en JAVA ambas soluciones deben estar en el mismo repo pero en diferentes sources
-en este mismo caso se solicita en las apis validar todos los status code para poder dar como resultado un OK en la prueba. se debera subir todo a este repo y agregar la documentacion de los comandos necesarios para la ejecucion 
+Para el desarrollo de la automatizacion del front el postulante es libre de seleccionar cualquier herramienta openSource que desee, lo minimo que se solicita es que siga el patron de Page Object.
+
+Para las apis de forma desease el desarrollo debera ser con RestAssured o Karate siendo la primera la mas valorable, de igual forma es libre de usar la tecnologia de su preferencia pero debera defender el motivo del uso de la misma asi como el performance obtenido. en caso que todo el desarrollo(Front + Back) sea hecho en JAVA ambas soluciones deben estar en el mismo repo pero en diferentes sources de igual forma si la solucion usa otra tecnologia preferiblemente que la solucion sea la misma tanto para el front como para el back. en caso contrario justifique la solucion.Se solicita en las apis validar todos los status code para poder dar como resultado un OK en la prueba. se debera subir todo a este repo y agregar la documentacion de los comandos necesarios para la ejecucion 
 
